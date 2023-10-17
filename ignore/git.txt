@@ -3,3 +3,7 @@ This file is to practice Advanced git(For my reference)
 this time i am gonna merge via VS code
 
 include this text from main branch, now i want this same change to be appeared in newbranch1
+
+this time, the change only appear in the newbranch1 temp, so i can check the difference when i apply this git command(git log --oneline)
+another line for same purpose
+same purpose
